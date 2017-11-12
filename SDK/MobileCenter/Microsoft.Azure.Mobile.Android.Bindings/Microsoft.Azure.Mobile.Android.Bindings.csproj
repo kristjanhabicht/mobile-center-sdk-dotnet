@@ -12,7 +12,7 @@
     <RootNamespace>Microsoft.Azure.Mobile.Android.Bindings</RootNamespace>
     <AssemblyName>Microsoft.Azure.Mobile.Android.Bindings</AssemblyName>
     <FileAlignment>512</FileAlignment>
-    <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
+    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
     <AndroidTlsProvider>
     </AndroidTlsProvider>
