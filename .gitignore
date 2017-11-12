@@ -1,8 +1,8 @@
 # Ignore aar files
-*.aar
+#*.aar
 
 # Ignore .a files
-*.a
+#*.a
 # Ignore generated resource files
 # Note: designer files in demo applications should not be ignored.
 [Rr]esource.[Dd]esigner.cs
