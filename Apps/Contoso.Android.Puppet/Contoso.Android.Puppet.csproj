@@ -45,15 +45,6 @@
     <AndroidLinkMode>Full</AndroidLinkMode>
     <EnableProguard>true</EnableProguard>
     <AndroidLinkSkip>Xamarin.Android.Support.v7.AppCompat;Xamarin.Android.Support.Design</AndroidLinkSkip>
-<CustomCommands>
-  <CustomCommands>
-    <Command>
-      <type>BeforeBuild</type>
-      <command>../../build.sh</command>
-      <workingdir>../../</workingdir>
-    </Command>
-  </CustomCommands>
-</CustomCommands>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Mono.Android" />
