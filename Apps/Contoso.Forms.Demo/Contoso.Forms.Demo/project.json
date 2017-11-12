@@ -1,11 +1,11 @@
 ﻿{
   "dependencies": {
-    "Microsoft.Azure.Mobile.Analytics": "0.17.0",
-    "Microsoft.Azure.Mobile.Crashes": "0.17.0",
-    "Microsoft.Azure.Mobile.Distribute": "0.17.0",
-    "Microsoft.Azure.Mobile.Push": "0.17.0",
-    "NETStandard.Library": "1.6.1",
-    "Xamarin.Forms": "2.4.0.38779"
+    "Microsoft.Azure.Mobile.Analytics": "0.17.1",
+    "Microsoft.Azure.Mobile.Crashes": "0.17.1",
+    "Microsoft.Azure.Mobile.Distribute": "0.17.1",
+    "Microsoft.Azure.Mobile.Push": "0.17.1",
+    "NETStandard.Library": "2.0.1",
+    "Xamarin.Forms": "2.4.0.74863"
   },
   "frameworks": {
     "netstandard1.0": {}
