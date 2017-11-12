@@ -215,7 +215,7 @@ ModelManifest.xml
 .DS_Store
 # Cake directories
 tools/
-externals/
+#externals/
 # Google services json
 **/google-services.json
 # Output directory

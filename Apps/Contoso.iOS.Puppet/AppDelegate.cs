@@ -31,7 +31,7 @@ namespace Contoso.iOS.Puppet
             Distribute.SetInstallUrl("http://install.asgard-int.trafficmanager.net");
             Distribute.SetApiUrl("https://asgard-int.trafficmanager.net/api/v0.1");
             Distribute.DontCheckForUpdatesInDebug();
-            MobileCenter.Start("b889c4f2-9ac2-4e2e-ae16-dae54f2c5899", typeof(Analytics), typeof(Crashes), typeof(Distribute));
+            MobileCenter.Start("b72b0986-1dd1-4e3a-9b21-6a11c8e79b6f", typeof(Analytics), typeof(Crashes), typeof(Distribute));
             try
             {
                 ThrowAnException();
